@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI GL65\\Desktop\\PrivCars\\LtmApp\\LtmAppSol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7986406F-D482-4246-945D-F38E1B283BC3}|LtmApp.DAL\\LtmApp.DAL.csproj|c:\\users\\msi gl65\\desktop\\privcars\\ltmapp\\ltmappsol\\ltmapp.dal\\dbfactory\\dbfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7986406F-D482-4246-945D-F38E1B283BC3}|LtmApp.DAL\\LtmApp.DAL.csproj|solutionrelative:ltmapp.dal\\dbfactory\\dbfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7986406F-D482-4246-945D-F38E1B283BC3}|LtmApp.DAL\\LtmApp.DAL.csproj|c:\\users\\msi gl65\\desktop\\privcars\\ltmapp\\ltmappsol\\ltmapp.dal\\core\\idbfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7986406F-D482-4246-945D-F38E1B283BC3}|LtmApp.DAL\\LtmApp.DAL.csproj|solutionrelative:ltmapp.dal\\core\\idbfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7986406F-D482-4246-945D-F38E1B283BC3}|LtmApp.DAL\\LtmApp.DAL.csproj|c:\\users\\msi gl65\\desktop\\privcars\\ltmapp\\ltmappsol\\ltmapp.dal\\context\\ltmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7986406F-D482-4246-945D-F38E1B283BC3}|LtmApp.DAL\\LtmApp.DAL.csproj|solutionrelative:ltmapp.dal\\context\\ltmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7986406F-D482-4246-945D-F38E1B283BC3}|LtmApp.DAL\\LtmApp.DAL.csproj|c:\\users\\msi gl65\\desktop\\privcars\\ltmapp\\ltmappsol\\ltmapp.dal\\core\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7986406F-D482-4246-945D-F38E1B283BC3}|LtmApp.DAL\\LtmApp.DAL.csproj|solutionrelative:ltmapp.dal\\core\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7986406F-D482-4246-945D-F38E1B283BC3}|LtmApp.DAL\\LtmApp.DAL.csproj|c:\\users\\msi gl65\\desktop\\privcars\\ltmapp\\ltmappsol\\ltmapp.dal\\core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7986406F-D482-4246-945D-F38E1B283BC3}|LtmApp.DAL\\LtmApp.DAL.csproj|solutionrelative:ltmapp.dal\\core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5782B1A-3E16-43A7-ADF7-BFFD9996C332}|LtmApp.Web\\LtmApp.Web.csproj|c:\\users\\msi gl65\\desktop\\privcars\\ltmapp\\ltmappsol\\ltmapp.web\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5782B1A-3E16-43A7-ADF7-BFFD9996C332}|LtmApp.Web\\LtmApp.Web.csproj|solutionrelative:ltmapp.web\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5782B1A-3E16-43A7-ADF7-BFFD9996C332}|LtmApp.Web\\LtmApp.Web.csproj|c:\\users\\msi gl65\\desktop\\privcars\\ltmapp\\ltmappsol\\ltmapp.web\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5782B1A-3E16-43A7-ADF7-BFFD9996C332}|LtmApp.Web\\LtmApp.Web.csproj|solutionrelative:ltmapp.web\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5782B1A-3E16-43A7-ADF7-BFFD9996C332}|LtmApp.Web\\LtmApp.Web.csproj|c:\\users\\msi gl65\\desktop\\privcars\\ltmapp\\ltmappsol\\ltmapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5782B1A-3E16-43A7-ADF7-BFFD9996C332}|LtmApp.Web\\LtmApp.Web.csproj|solutionrelative:ltmapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbFactory.cs",
+              "DocumentMoniker": "C:\\Users\\MSI GL65\\Desktop\\PrivCars\\LtmApp\\LtmAppSol\\LtmApp.DAL\\DbFactory\\DbFactory.cs",
+              "RelativeDocumentMoniker": "LtmApp.DAL\\DbFactory\\DbFactory.cs",
+              "ToolTip": "C:\\Users\\MSI GL65\\Desktop\\PrivCars\\LtmApp\\LtmAppSol\\LtmApp.DAL\\DbFactory\\DbFactory.cs",
+              "RelativeToolTip": "LtmApp.DAL\\DbFactory\\DbFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T21:10:27.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDbFactory.cs",
+              "DocumentMoniker": "C:\\Users\\MSI GL65\\Desktop\\PrivCars\\LtmApp\\LtmAppSol\\LtmApp.DAL\\Core\\IDbFactory.cs",
+              "RelativeDocumentMoniker": "LtmApp.DAL\\Core\\IDbFactory.cs",
+              "ToolTip": "C:\\Users\\MSI GL65\\Desktop\\PrivCars\\LtmApp\\LtmAppSol\\LtmApp.DAL\\Core\\IDbFactory.cs",
+              "RelativeToolTip": "LtmApp.DAL\\Core\\IDbFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T21:10:27.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\MSI GL65\\Desktop\\PrivCars\\LtmApp\\LtmAppSol\\LtmApp.DAL\\Core\\Person.cs",
+              "RelativeDocumentMoniker": "LtmApp.DAL\\Core\\Person.cs",
+              "ToolTip": "C:\\Users\\MSI GL65\\Desktop\\PrivCars\\LtmApp\\LtmAppSol\\LtmApp.DAL\\Core\\Person.cs",
+              "RelativeToolTip": "LtmApp.DAL\\Core\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T21:10:27.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\MSI GL65\\Desktop\\PrivCars\\LtmApp\\LtmAppSol\\LtmApp.DAL\\Core\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "LtmApp.DAL\\Core\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\MSI GL65\\Desktop\\PrivCars\\LtmApp\\LtmAppSol\\LtmApp.DAL\\Core\\BaseEntity.cs",
+              "RelativeToolTip": "LtmApp.DAL\\Core\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T21:10:27.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LtmContext.cs",
+              "DocumentMoniker": "C:\\Users\\MSI GL65\\Desktop\\PrivCars\\LtmApp\\LtmAppSol\\LtmApp.DAL\\Context\\LtmContext.cs",
+              "RelativeDocumentMoniker": "LtmApp.DAL\\Context\\LtmContext.cs",
+              "ToolTip": "C:\\Users\\MSI GL65\\Desktop\\PrivCars\\LtmApp\\LtmAppSol\\LtmApp.DAL\\Context\\LtmContext.cs",
+              "RelativeToolTip": "LtmApp.DAL\\Context\\LtmContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T21:10:27.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "C:\\Users\\MSI GL65\\Desktop\\PrivCars\\LtmApp\\LtmAppSol\\LtmApp.Web\\Models\\PersonModel.cs",
+              "RelativeDocumentMoniker": "LtmApp.Web\\Models\\PersonModel.cs",
+              "ToolTip": "C:\\Users\\MSI GL65\\Desktop\\PrivCars\\LtmApp\\LtmAppSol\\LtmApp.Web\\Models\\PersonModel.cs",
+              "RelativeToolTip": "LtmApp.Web\\Models\\PersonModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T21:10:27.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\MSI GL65\\Desktop\\PrivCars\\LtmApp\\LtmAppSol\\LtmApp.Web\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "LtmApp.Web\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\MSI GL65\\Desktop\\PrivCars\\LtmApp\\LtmAppSol\\LtmApp.Web\\Models\\StudentModel.cs",
+              "RelativeToolTip": "LtmApp.Web\\Models\\StudentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T21:10:27.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI GL65\\Desktop\\PrivCars\\LtmApp\\LtmAppSol\\LtmApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LtmApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MSI GL65\\Desktop\\PrivCars\\LtmApp\\LtmAppSol\\LtmApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LtmApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T21:10:27.489Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 826,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
